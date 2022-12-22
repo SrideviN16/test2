@@ -1,0 +1,105 @@
+*
+  { 
+    box-sizing:border-box;
+    margin:0px;
+	padding:0px;
+
+	
+  }  
+.container
+{
+    width:1170px;
+	margin:0 auto;
+	padding:0 15px;
+	
+  }
+ .row
+ {
+	  display:flex;
+	 justify-content:space-between;
+	 margin-right:-15px;
+	  margin-left:-15px;
+	  
+}
+ .test
+ {
+	 width:100%;
+	 background-color:black;
+	 padding:10px 0;
+	
+	 
+ }
+ .title h3
+ { 
+  color:gray;
+  font-size:18px;
+  margin:40px 40px 3px 40px;
+
+ }
+ .title h2
+ { 
+  color:orange;
+  font-size:40px;
+  margin:10px 40px 3px 40px;
+ 
+  
+ }
+ .col1
+ {
+	 width:30%
+ }
+ .first
+ {
+	 margin-top:20px;
+	 margin-left:50px;
+	 border-right:1px solid orange;
+ }
+ .first p
+ { 
+    color:white;
+	font-size:20px;
+	padding:18px;
+	
+
+ }
+	 
+ .second .ptwo
+ {
+	 margin-top:20px;
+ }
+ .first .active
+ {
+	background-color:orange;
+	color:black;
+	border:solid 2px orange;
+ }
+ .col2
+ {
+	  width:50%;
+ }
+ .second h3
+ {
+	 color:white;
+	 font-size:26px;
+	 font-weight:600;
+	 padding:20px 20px;
+	 
+ }
+ .second p
+ {
+	 color:gray;
+	 font-size:18px;
+	 font-style:italic;
+	 padding:10px 30px;
+	 
+	 
+ }
+.col3
+{
+	width:20%;
+}
+.image img
+{
+	width:100%;
+	padding:30px 0px;
+}
